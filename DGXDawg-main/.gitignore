@@ -1,0 +1,20 @@
+# Python
+backend/venv/
+backend/__pycache__/
+*.pyc
+.env
+.venv/
+backend/.env
+backend/background.env
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Large media (over GitHub limit)
+frontend/public/gershwin-medley.mp4
+
+# IDE / OS
+.idea/
+.DS_Store
+*.log
